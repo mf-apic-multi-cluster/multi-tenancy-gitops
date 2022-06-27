@@ -33,4 +33,5 @@ spec:
           location: BannerTop
           ## The text that should be displayed in the banner. This value is required for the banner to be created
           text: "FM-Apic-Multi-Cluster"
-          color: "'#4CAF50'"
+          color: "'#000000'"
+          font-weight: bold
